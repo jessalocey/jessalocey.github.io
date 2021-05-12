@@ -7,6 +7,7 @@ title: IMMERSE Log
 
 * **Monday:** started reviewing Linux using the tutorial
 * **Tuesday:** set up this website
+* **Tuesday:** reviewed and learned about git and Linux
 
 ### Week 2: May 3, 2021
 
