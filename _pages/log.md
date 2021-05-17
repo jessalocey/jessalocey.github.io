@@ -3,6 +3,10 @@ layout: default
 title: IMMERSE Log
 ---
 
+### Week 4: May 17, 2021
+
+* **Monday:** reviewed and learned about git 
+
 ### Week 3: May 10, 2021
 
 * **Monday:** started reviewing and learning about Linux using the tutorial
