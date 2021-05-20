@@ -6,6 +6,10 @@ title: IMMERSE Log
 ### Week 4: May 17, 2021
 
 * **Monday:** reviewed and learned about git 
+* **Tuesday:** reviewed and learned about git and Linux
+* **Wednesday:** learned more about Linux
+* **Thursday:** worked more on DTRA project, set up ssh for that, learned more about Linux
+* **Friday:** 
 
 ### Week 3: May 10, 2021
 
