@@ -9,7 +9,7 @@ title: IMMERSE Log
 * **Tuesday:** reviewed and learned about git and Linux
 * **Wednesday:** learned more about Linux
 * **Thursday:** worked more on DTRA project, set up ssh for that, learned more about Linux
-* **Friday:** 
+* **Friday:** set up a git GUI, learned about github and VS Code
 
 ### Week 3: May 10, 2021
 
