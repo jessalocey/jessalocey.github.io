@@ -5,8 +5,8 @@ title: IMMERSE Log
 
 ### Week 5: May 24, 2021
 * **Monday:** learned about VS Code
-* **Tuesday:** 
-* **Wednesday:** 
+* **Tuesday:** learned more about VS Code
+* **Wednesday:** learned about make and cmake 
 * **Thursday:** 
 * **Friday:** 
 
