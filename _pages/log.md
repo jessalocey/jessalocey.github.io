@@ -3,6 +3,17 @@ layout: default
 title: IMMERSE Log
 ---
 
+### Week 7: June 7, 2021
+* **Monday:** on campus, attended FPGA meeting, worked on getting caught up
+* **Tuesday:** worked on presentation
+* **Wednesday:** (present)
+* **Thursday:** 
+* **Friday:** 
+
+### Week 6: May 31, 2021
+<span style="color:purple; font-size:1.3em;">On vacation</span>
+* Watched Lord of the Pubs video on Learning Suite
+
 ### Week 5: May 24, 2021
 * **Monday:** learned about VS Code
 * **Tuesday:** learned more about VS Code
@@ -11,7 +22,6 @@ title: IMMERSE Log
 * **Friday:** 
 
 ### Week 4: May 17, 2021
-
 * **Monday:** learned about git 
 * **Tuesday:** learned about git and Linux
 * **Wednesday:** learned more about Linux
@@ -19,7 +29,6 @@ title: IMMERSE Log
 * **Friday:** set up a git GUI, learned about github and VS Code
 
 ### Week 3: May 10, 2021
-
 * **Monday:** learned about Linux using the tutorial
 * **Tuesday:** set up this website
 * **Wednesday:** learned about git, linked this website to the main one
@@ -27,11 +36,9 @@ title: IMMERSE Log
 * **Friday:** learned more Linux, turned in proposal
 
 ### Week 2: May 3, 2021
-
 <span style="color:purple; font-size:1.3em;">On vacation</span>
 * No hours logged
 
 ### Week 1: April 26, 2021
-
 <span style="color:purple; font-size:1.3em;">On vacation</span>
 * No hours logged 
