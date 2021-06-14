@@ -3,12 +3,19 @@ layout: default
 title: IMMERSE Log
 ---
 
+### Week 8: June 14, 2021
+* **Monday:** worked with Jayden to create a module list for the DTRA project, learned more python
+* **Tuesday:** 
+* **Wednesday:**
+* **Thursday:** 
+* **Friday:** 
+
 ### Week 7: June 7, 2021
 * **Monday:** on campus, attended FPGA meeting, worked on getting caught up
 * **Tuesday:** worked on presentation
-* **Wednesday:** (present)
-* **Thursday:** 
-* **Friday:** 
+* **Wednesday:** presented and worked on getting caught up
+* **Thursday:** had DTRA meeting and helped move our set up to another room
+* **Friday:** learned about python 
 
 ### Week 6: May 31, 2021
 <span style="color:purple; font-size:1.3em;">On vacation</span>
