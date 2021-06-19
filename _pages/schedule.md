@@ -13,4 +13,6 @@ title: IMMERSE Schedule
 
 <br/>
 <span style="color:purple; font-size:1.3em;">Vacations:</span>  
-* August 16th - 20th
+
+* July 15th - 19th (Thursday - Monday)
+* August 16th - 20th (Monday - Friday)
