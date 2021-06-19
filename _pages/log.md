@@ -5,7 +5,7 @@ title: IMMERSE Log
 
 ### Week 8: June 14, 2021
 * **Monday:** worked with Jayden to create a module list for the DTRA project, learned more python
-* **Tuesday:** 
+* **Tuesday:** learned a little more python
 * **Wednesday:**
 * **Thursday:** 
 * **Friday:** 
