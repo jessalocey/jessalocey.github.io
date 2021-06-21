@@ -4,7 +4,7 @@ title: IMMERSE Log
 ---
 
 ### Week 9: June 21st, 2021
-* **Monday:** 
+* **Monday:** attended Bootcamp meeting and learned about Vivado, worked more on the module list and looked through documentation
 * **Tuesday:** 
 * **Wednesday:** 
 * **Thursday:** 
