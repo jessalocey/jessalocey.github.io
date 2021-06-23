@@ -4,9 +4,9 @@ title: IMMERSE Log
 ---
 
 ### Week 9: June 21st, 2021
-* **Monday:** 
-* **Tuesday:** 
-* **Wednesday:** 
+* **Monday:** attended Bootcamp meeting and learned about Vivado, worked more on the module list and looked through documentation
+* **Tuesday:** learned a little more Linux, looked through documentation for DTRA
+* **Wednesday:** attended IMMERSE meetings, looked through documentation for DTRA
 * **Thursday:** 
 * **Friday:** 
 
