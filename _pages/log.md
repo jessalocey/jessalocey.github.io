@@ -7,7 +7,7 @@ title: IMMERSE Log
 * **Monday:** attended Bootcamp meeting and learned about Vivado, worked more on the module list and looked through documentation
 * **Tuesday:** learned a little more Linux, looked through documentation for DTRA
 * **Wednesday:** attended IMMERSE meetings, looked through documentation for DTRA
-* **Thursday:** 
+* **Thursday:** attended DTRA meeting, worked on DTRA module list
 * **Friday:** 
 
 ### Week 8: June 14, 2021
