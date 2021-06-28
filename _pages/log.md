@@ -3,12 +3,19 @@ layout: default
 title: IMMERSE Log
 ---
 
-### Week 9: June 21st, 2021
+### Week 10: June 28, 2021
+* **Monday:** looked over DTRA module list, went over python parser 
+* **Tuesday:** 
+* **Wednesday:** 
+* **Thursday:** help at Chip Camp
+* **Friday:** 
+
+### Week 9: June 21, 2021
 * **Monday:** attended Bootcamp meeting and learned about Vivado, worked more on the module list and looked through documentation
 * **Tuesday:** learned a little more Linux, looked through documentation for DTRA
 * **Wednesday:** attended IMMERSE meetings, looked through documentation for DTRA
 * **Thursday:** attended DTRA meeting, worked on DTRA module list
-* **Friday:** 
+* **Friday:** learned more python
 
 ### Week 8: June 14, 2021
 * **Monday:** worked with Jayden to create a module list for the DTRA project, learned more python
