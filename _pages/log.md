@@ -5,7 +5,7 @@ title: IMMERSE Log
 
 ### Week 10: June 28, 2021
 * **Monday:** looked over DTRA module list, went over python parser 
-* **Tuesday:** 
+* **Tuesday:** worked on python parser, got it working but it's not great, looked fro CMake videos for the Bootcamp website
 * **Wednesday:** 
 * **Thursday:** help at Chip Camp
 * **Friday:** 
