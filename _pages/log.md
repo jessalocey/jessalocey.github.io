@@ -5,10 +5,10 @@ title: IMMERSE Log
 
 ### Week 10: June 28, 2021
 * **Monday:** looked over DTRA module list, went over python parser 
-* **Tuesday:** worked on python parser, got it working but it's not great, looked fro CMake videos for the Bootcamp website
-* **Wednesday:** 
-* **Thursday:** help at Chip Camp
-* **Friday:** 
+* **Tuesday:** worked on python parser
+* **Wednesday:** got python parser working but it's not great, looked for CMake videos for the Bootcamp website
+* **Thursday:** helped at Chip Camp
+* **Friday:** looked through MemChecker in DTRA project, 
 
 ### Week 9: June 21, 2021
 * **Monday:** attended Bootcamp meeting and learned about Vivado, worked more on the module list and looked through documentation
