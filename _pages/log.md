@@ -5,7 +5,7 @@ title: IMMERSE Log
 
 ### Week 11: July 5, 2021
 * **Monday:** Holiday -- no hours logged
-* **Tuesday:** read about DRAM for DTRA
+* **Tuesday:** read about DRAM for DTRA, worked on improving my LinkedIn, learned more about python environments
 * **Wednesday:** 
 * **Thursday:** 
 * **Friday:** 
