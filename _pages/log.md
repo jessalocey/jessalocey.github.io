@@ -7,8 +7,8 @@ title: IMMERSE Log
 * **Monday:** Holiday -- no hours logged
 * **Tuesday:** read about DRAM for DTRA, worked on improving my LinkedIn, learned more about python environments
 * **Wednesday:** learned more about python environments, practiced with venv 
-* **Thursday:** 
-* **Friday:** 
+* **Thursday:** attended DTRA meeting, learned about malloc(), worked on DRAM module
+* **Friday:** planned out and worked on poster for DTRA conference
 
 ### Week 10: June 28, 2021
 * **Monday:** looked over DTRA module list, went over python parser 
