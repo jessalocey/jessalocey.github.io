@@ -5,8 +5,8 @@ title: IMMERSE Log
 
 ### Week 12: July 12, 2021
 * **Monday:** worked on poster for DTRA conference, worked on DRAM module
-* **Tuesday:** 
-* **Wednesday:** 
+* **Tuesday:** met with Nathan and Wesley to work on poster for DTRA conference
+* **Wednesday:** attended IMMERSE meetings, worked on poster for DTRA conference
 * **Thursday:** 
 * **Friday:** 
 
