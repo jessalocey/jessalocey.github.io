@@ -5,8 +5,8 @@ title: IMMERSE Log
 
 ### Week 13: July 19, 2021
 * **Monday:** no hours logged
-* **Tuesday:** 
-* **Wednesday:** 
+* **Tuesday:** prepared for DTRA conference drone simulation
+* **Wednesday:** attended IMMERSE meetings, worked on DRAM module
 * **Thursday:** 
 * **Friday:** 
 
