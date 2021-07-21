@@ -3,12 +3,19 @@ layout: default
 title: IMMERSE Log
 ---
 
+### Week 13: July 19, 2021
+* **Monday:** no hours logged
+* **Tuesday:** prepared for DTRA conference drone simulation
+* **Wednesday:** attended IMMERSE meetings, worked on DRAM module
+* **Thursday:** 
+* **Friday:** 
+
 ### Week 12: July 12, 2021
 * **Monday:** worked on poster for DTRA conference, worked on DRAM module
 * **Tuesday:** met with Nathan and Wesley to work on poster for DTRA conference
 * **Wednesday:** attended IMMERSE meetings, worked on poster for DTRA conference
-* **Thursday:** 
-* **Friday:** 
+* **Thursday:** worked on poster for DTRA conference with Nathan and Wesley
+* **Friday:** recorded and reviewed video presentation of poster for DTRA conference
 
 ### Week 11: July 5, 2021
 * **Monday:** Holiday -- no hours logged
