@@ -15,7 +15,7 @@ title: IMMERSE Log
 * **Tuesday:** DTRA conference 
 * **Wednesday:** DTRA conference
 * **Thursday:** DTRA conference
-* **Friday:** 
+* **Friday:** no hours logged
 
 ### Week 13: July 19, 2021
 * **Monday:** 
