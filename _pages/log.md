@@ -4,18 +4,18 @@ title: IMMERSE Log
 ---
 
 ### Week 15: August 2, 2021
-* **Monday:** organized my schedule, worked on DRAM module, learned more about python environments
-* **Tuesday:** 
-* **Wednesday:** 
-* **Thursday:** 
+* **Monday:** organized my schedule, worked on DRAM module, learned more about python environments, practiced with miniconda
+* **Tuesday:** no hours logged
+* **Wednesday:** attended IMMERSE meetings, worked on DRAM module
+* **Thursday:** met with Wesley to go over DRAM module, attended DTRA meeting
 * **Friday:** 
 
 ### Week 14: July 26, 2021
 * **Monday:** 
-* **Tuesday:** DTRA conference 
-* **Wednesday:** DTRA conference
+* **Tuesday:** attended DTRA conference, participated in drone competition
+* **Wednesday:** attended DTRA conference, participated in poster session
 * **Thursday:** DTRA conference
-* **Friday:** 
+* **Friday:** no hours logged
 
 ### Week 13: July 19, 2021
 * **Monday:** 
