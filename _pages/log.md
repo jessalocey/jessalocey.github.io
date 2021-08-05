@@ -7,7 +7,7 @@ title: IMMERSE Log
 * **Monday:** organized my schedule, worked on DRAM module, learned more about python environments, practiced with miniconda
 * **Tuesday:** no hours logged
 * **Wednesday:** attended IMMERSE meetings, worked on DRAM module
-* **Thursday:** met with Wesley to go over DRAM module, attended DTRA meeting
+* **Thursday:** met with Wesley, went over and finished DRAM module, attended DTRA meeting, started trying to enable ECC for DRAM, learned more about Conda
 * **Friday:** 
 
 ### Week 14: July 26, 2021
@@ -22,7 +22,7 @@ title: IMMERSE Log
 * **Tuesday:** prepared for DTRA conference drone simulation
 * **Wednesday:** attended IMMERSE meetings, worked on DRAM module
 * **Thursday:** attended DTRA meeting, worked on DRAM module, prepared for DTRA conference, learned more about python environments
-* **Friday:** 
+* **Friday:** Holiday -- no hours logged
 
 ### Week 12: July 12, 2021
 * **Monday:** worked on poster for DTRA conference, worked on DRAM module
