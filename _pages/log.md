@@ -8,7 +8,7 @@ title: IMMERSE Log
 * **Tuesday:** no hours logged
 * **Wednesday:** attended IMMERSE meetings, worked on DRAM module
 * **Thursday:** met with Wesley, went over and finished DRAM module, attended DTRA meeting, started reading how to enable ECC for DRAM, learned more about Conda
-* **Friday:** 
+* **Friday:** go over documentation!!
 
 ### Week 14: July 26, 2021
 * **Monday:** 
