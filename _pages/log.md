@@ -10,7 +10,7 @@ title: IMMERSE Log
 ### Week 16: August 9, 2021
 * **Monday:** learned more about conda
 * **Tuesday:** learned more about python packages and practiced with conda
-* **Wednesday:** learned more about python packages, worked on understanding the ECC for DRAM
+* **Wednesday:** learned more about python packages and practiced with conda, learned more about markdown
 * **Thursday:** 
 * **Friday:** 
 
