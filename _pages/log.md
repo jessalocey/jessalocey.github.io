@@ -11,7 +11,7 @@ title: IMMERSE Log
 * **Monday:** learned more about conda
 * **Tuesday:** learned more about python packages and practiced with conda
 * **Wednesday:** learned more about python packages and practiced with conda, learned more about markdown
-* **Thursday:** 
+* **Thursday:** worked on enabling ECC for DRAM with Wesley, found that it seems like it isn't feasible, attended DTRA meeting
 * **Friday:** 
 
 ### Week 15: August 2, 2021
