@@ -5,14 +5,15 @@ title: IMMERSE Log
 
 ### Week 17: August 16, 2021
 <span style="color:purple; font-size:1.3em;">On vacation</span>
-* TODO: Maybe a few small things?
+* TODO: Write summer summary 
+* Maybe a few small things?
 
 ### Week 16: August 9, 2021
 * **Monday:** learned more about conda
 * **Tuesday:** learned more about python packages and practiced with conda
 * **Wednesday:** learned more about python packages and practiced with conda, learned more about markdown
 * **Thursday:** worked on enabling ECC for DRAM with Wesley, found that it seems like it isn't feasible, attended DTRA meeting
-* **Friday:** TODO: write IMMERSE summer summary
+* **Friday:** no hours logged
 
 ### Week 15: August 2, 2021
 * **Monday:** organized my schedule, worked on DRAM module, learned more about python environments, practiced with miniconda
