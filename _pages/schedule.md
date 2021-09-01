@@ -3,13 +3,19 @@ layout: default
 title: IMMERSE Schedule
 ---
 
-<span style="color:green; font-size:2em;">Summer 2021</span>
+<span style="color:green; font-size:2em;">Fall 2021</span>
 
-|  Monday  |  Tuesday  |  Wednesday  |  Thursday  |  Friday  |
-|  :----:  |  :-----:  |  :-------:  |  :------:  |  :----:  |
-|  11 - 4  |  11 - 4   |  11 - 4     |  11 - 4    |  11 - 4  | 
-
-~~ Lunch break usually from 1 pm - 2 pm ~~  
+|    | Monday | Tuesday | Wednesday | Thursday | Friday |
+|:--:| :----: | :-----: | :-------: | :------: | :----: |
+| 8  | class  |         | class     |          | class  |
+| 9  | research | research | research | research | research | 
+| 10 | research | research | research | research | research |
+| 11 | class  |         | class     | class    | class  |
+| 12 | class  | class   | class     | class    | class  |
+| 1  | class  | class   | class     |          |        |
+| 2  |        | class   |           |          |        |
+| 3  |        |         |           |          |        |
+| 4  |        |         |           |          |        |
 
 <br/>
 <span style="color:purple; font-size:1.3em;">Vacations:</span>  

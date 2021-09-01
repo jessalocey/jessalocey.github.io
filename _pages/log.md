@@ -3,10 +3,16 @@ layout: default
 title: IMMERSE Log
 ---
 
+### August 30, 2021
+* learned about matplotlib in preparation for parsing info from DTRA test
+
+### August 23, 2021
+* learned about unit testing 
+* learned about the importance of documentation and sphinx
+
 ### Week 17: August 16, 2021
 <span style="color:purple; font-size:1.3em;">On vacation</span>
-* TODO: Write summer summary 
-* Maybe a few small things?
+* wrote IMMERSE summer summary
 
 ### Week 16: August 9, 2021
 * **Monday:** learned more about conda
