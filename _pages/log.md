@@ -3,8 +3,12 @@ layout: default
 title: IMMERSE Log
 ---
 
+### September 6, 2021
+* learned more about matplotlib
+
 ### August 30, 2021
 * learned about matplotlib in preparation for parsing info from DTRA test
+* learned about docker and SQL
 
 ### August 23, 2021
 * learned about unit testing 
